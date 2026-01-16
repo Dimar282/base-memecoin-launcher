@@ -59,3 +59,4 @@ forge fmt
 
 # Update dependencies
 forge update
+ok
